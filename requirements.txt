@@ -1,1 +1,1 @@
-ursina
+ursina==3.5.0
